@@ -1,4 +1,4 @@
-# Hệ Thống Phát Hiện Vật Thể HOG Song Song
+# Hệ Thống Phát Hiện Vật Thể HOG
 
 Dự án này là một triển khai hiệu năng cao của thuật toán trích xuất đặc trưng **Histogram of Oriented Gradients (HOG)** để phát hiện vật thể. Mục tiêu chính là so sánh hiệu suất giữa 4 chế độ thực thi khác nhau, từ đó minh chứng sức mạnh của lập trình song song và tăng tốc phần cứng.
 
